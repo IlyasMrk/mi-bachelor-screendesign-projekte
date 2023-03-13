@@ -1,5 +1,5 @@
 ---
-title: Neue Ansicht «Ortsbezogene Dartstellung der Artefakte» im Cranach Digital Archive
+title: Neue Ansicht «Ortsbezogene Darstellung der Artefakte» im Cranach Digital Archive
 people:
     - Ilias El-Masoudi
     - Sekarja Benaggoune
